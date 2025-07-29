@@ -1,0 +1,31 @@
+{
+ 	"connectivity": 2,
+	"dominance_thermo": 8.0,
+	"dominance_kinetic": 20.0,
+	"IC": 0.05,
+    "feeding_0": 0,
+    "feeding_1": 0,
+	"T": 312,
+	"time_end": 10000,
+	
+	"plotting": 1,
+	"target_time": 10000,
+    "num_species": 12,
+	"threshold_detection": 0.0001,	
+	"randomnes_H": 0.0,
+	"randomnes_Ea": 0.0,
+
+	"loop_start": 0,
+	"loop_end": 25000,
+	"loop_increment": 100000,
+	
+    "precision_dt": 0.5,
+	
+	"IC_all_monomers": 0.05,
+	"enthalpy": 8.0,
+	"entropy": 0.0333333,
+	"activation_energy": 25.0,
+	"feeding_quantity": 0.05,
+	"IC_eps": 0.0000001,
+	"water": 0.5	
+}
